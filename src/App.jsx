@@ -6,8 +6,9 @@ const stocks = [
   { ticker: 'TSLA' },
   { ticker: 'GOOGL' },
   { ticker: 'TSM' },
-  { ticker: 'SPLG' },
-  { ticker: '005930.KS' }
+  { ticker: 'GLD' },
+  { ticker: 'CRCL' },
+  { ticker: '005930.KS' },
 ]
 function App() {
   return (
